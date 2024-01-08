@@ -586,7 +586,7 @@ body {
     width: 100%;
     background-color: black;
     position: fixed;
-    z-index: 110;
+    z-index: 1110;
     top: 0;
     transition: all linear 0.7s;
     display: flex;
